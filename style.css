@@ -5,10 +5,40 @@
   padding: 0;
   box-sizing: inherit;
 }
-
+.rules {
+  position: absolute;
+  color: white;
+  background-color: #333;
+  font-size: 2rem;
+  font-weight: bold;
+  /* background-color: white; */
+  left: 1%;
+  top: 15%;
+  width: 250px;
+  padding: 1em;
+  line-height: 1.7;
+}
+.hide-btn {
+  width: 100px;
+  border: 0;
+  color: white;
+  background-color: #c7365f;
+  padding: 4px 8px;
+  margin: 5px auto;
+  font: inherit;
+  display: block;
+  border-radius: 10px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
 html {
   font-size: 62.5%;
   box-sizing: border-box;
+}
+.hidden {
+  display: none;
 }
 
 body {
@@ -20,6 +50,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 /* LAYOUT */
