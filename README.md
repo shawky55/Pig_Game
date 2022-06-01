@@ -1,10 +1,10 @@
-
 # Pig Game
+
 ### <a href="https://sh55-piggame.netlify.app/">Try Live </a>
 
-
 - Pig is a simple dice game first described in print in John Scarne in 1945
-<br>
+  <br>
+  <img href="./assest/screenshot.png"></img>
 - Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
 
 - Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
