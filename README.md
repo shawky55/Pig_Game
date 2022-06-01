@@ -1,5 +1,6 @@
+
 # Pig Game
-<a href="https://sh55-piggame.netlify.app/">Live</a>
+### <a href="https://sh55-piggame.netlify.app/">Try Live </a>
 
 
 - Pig is a simple dice game first described in print in John Scarne in 1945
